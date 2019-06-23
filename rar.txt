@@ -1,6 +1,10 @@
 /a.zip
+/a.rar
+/a.tar.gz
 /web.zip
 /web.rar
+/web.tar.gz
+/web.tar
 /1.rar
 /bbs.rar
 /www.root.rar
@@ -111,3 +115,7 @@
 /users.txt
 /users.zip
 /userlist.tar
+/www.tar.gz
+/latest.tar.gz
+/latest.zip
+/latest.rar
